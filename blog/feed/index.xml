@@ -7,16 +7,25 @@
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      >
   <channel>
-    <title>mrseaman.com</title>
-    <link>http://www.example.com/blog</link>
+    <title>Mrseaman</title>
+    <link>http://www.mrseaman.com/blog</link>
     <description>Personal Blog</description>
-    <pubDate>Sat, 09 Nov 2013 19:53:36 GMT</pubDate>
+    <pubDate>Mon, 11 Nov 2013 07:18:52 GMT</pubDate>
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
+      <title>Blog built</title>
+      <link>http://www.mrseaman.com/blog/2013/07/23/blog-built</link>
+      <pubDate>Tue, 23 Jul 2013 15:22:00 EDT</pubDate>
+      <category><![CDATA[category 1]]></category>
+      <guid isPermaLink="false">LvL7A2Nt5KSVCDi6OUQZJZlesBw=</guid>
+      <description>Blog built</description>
+      <content:encoded><![CDATA[<p>Finally got it working.</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Syntax highlight test</title>
-      <link>http://www.example.com/blog/2011/05/11/syntax-highlight-test</link>
+      <link>http://www.mrseaman.com/blog/2011/05/11/syntax-highlight-test</link>
       <pubDate>Wed, 11 May 2011 15:25:00 EDT</pubDate>
       <category><![CDATA[general stuff]]></category>
       <guid isPermaLink="false">kJSMevgxOghVemPjY3s2DOc3Vbs=</guid>
@@ -28,7 +37,7 @@
     </item>
     <item>
       <title>Post 3 - Unicode Test - How about some 日本語テスト</title>
-      <link>http://www.example.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto</link>
+      <link>http://www.mrseaman.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto</link>
       <pubDate>Tue, 10 May 2011 15:22:00 EDT</pubDate>
       <category><![CDATA[unicode]]></category>
       <guid isPermaLink="false">B49PSSr_wWGUI8DUq4YBvHEXvYE=</guid>
@@ -52,7 +61,7 @@ I kå Glas frässa, ond des macht mr nix!
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://www.example.com/blog/2010/07/24/post-2</link>
+      <link>http://www.mrseaman.com/blog/2010/07/24/post-2</link>
       <pubDate>Sat, 24 Jul 2010 16:20:00 EDT</pubDate>
       <category><![CDATA[category 2]]></category>
       <category><![CDATA[category 1]]></category>
@@ -107,17 +116,8 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
 </div>]]></content:encoded>
     </item>
     <item>
-      <title>Post 1</title>
-      <link>http://www.example.com/blog/2010/07/23/post-1</link>
-      <pubDate>Fri, 23 Jul 2010 15:22:00 EDT</pubDate>
-      <category><![CDATA[category 1]]></category>
-      <guid isPermaLink="false">4WXdtemkeX4PNgN2kEtamiaZY1w=</guid>
-      <description>Post 1</description>
-      <content:encoded><![CDATA[<p>This is post #1</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Filler post 4</title>
-      <link>http://www.example.com/blog/2010/06/29/filler-post-4</link>
+      <link>http://www.mrseaman.com/blog/2010/06/29/filler-post-4</link>
       <pubDate>Tue, 29 Jun 2010 15:28:00 EDT</pubDate>
       <category><![CDATA[general stuff]]></category>
       <guid isPermaLink="false">3RbOC8mk1nOC3CbI1MyxeMzdu1M=</guid>
@@ -126,7 +126,7 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     </item>
     <item>
       <title>Filler post 3</title>
-      <link>http://www.example.com/blog/2010/06/29/filler-post-3</link>
+      <link>http://www.mrseaman.com/blog/2010/06/29/filler-post-3</link>
       <pubDate>Tue, 29 Jun 2010 15:27:00 EDT</pubDate>
       <category><![CDATA[general stuff]]></category>
       <guid isPermaLink="false">Vc8sLx0_sPGq2L5hH8-TTTAUMa8=</guid>
@@ -135,7 +135,7 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     </item>
     <item>
       <title>Filler post 2</title>
-      <link>http://www.example.com/blog/2010/06/29/filler-post-2</link>
+      <link>http://www.mrseaman.com/blog/2010/06/29/filler-post-2</link>
       <pubDate>Tue, 29 Jun 2010 15:26:00 EDT</pubDate>
       <category><![CDATA[general stuff]]></category>
       <guid isPermaLink="false">FVfgp0ak4BpqZ1PkvNLuy4WpfN4=</guid>
@@ -144,7 +144,7 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     </item>
     <item>
       <title>Filler post 1</title>
-      <link>http://www.example.com/blog/2010/06/29/filler-post-1</link>
+      <link>http://www.mrseaman.com/blog/2010/06/29/filler-post-1</link>
       <pubDate>Tue, 29 Jun 2010 15:25:00 EDT</pubDate>
       <category><![CDATA[general stuff]]></category>
       <guid isPermaLink="false">1Pwq_L1wJvzyglnFqNFiLhhkwAc=</guid>

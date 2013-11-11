@@ -15,14 +15,16 @@ html {
 }
 
 body {
-    background: #000;
-    background-image: -webkit-gradient(
+    background: #909090;
+    /*
+	background-image: -webkit-gradient(
         linear,
         left bottom,
         left top,
         color-stop(0, rgb(12,13,13)),
-        color-stop(0.6, rgb(30,46,87))
+        color-stop(0.6, rgb(30,144,255))
     );
+    */
     background-image: -moz-linear-gradient(
         center bottom,
         rgb(12,13,13) 0%,
@@ -96,7 +98,7 @@ div#header a {
 /****************************/
 div#navigation {
     border-top: 1px solid #fff;
-    background: #2A4480;
+    background: #808080;
     width: 100%;
     margin: 0;
 }
