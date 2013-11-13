@@ -33,18 +33,6 @@
 </div>]]></content:encoded>
     </item>
     <item>
-      <title>Syntax highlight test</title>
-      <link>http://www.mrseaman.com/blog/2013/11/11/syntax-highlight-test</link>
-      <pubDate>Mon, 11 Nov 2013 15:25:00 EST</pubDate>
-      <category><![CDATA[general stuff]]></category>
-      <guid isPermaLink="false">FLR1KuYZ2DZ2r_YEkoHLng0DWg0=</guid>
-      <description>Syntax highlight test</description>
-      <content:encoded><![CDATA[<p>This post contains some highlighted python code:</p>
-<div class="pygments_murphy syntax_highlight"><pre><span class="kn">import</span> <span class="nn">this</span><br/><br/><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;main&quot;</span><span class="p">:</span><br/>    <span class="k">print</span> <span class="s">&quot;Hello, World!&quot;</span><br/></pre></div>
-
-<p>This is accomplished with the built-in <a href="https://github.com/EnigmaCurry/blogofile/blob/master/blogofile/site_init/blog_features/_filters/syntax_highlight.py">syntax highlighter filter</a></p>]]></content:encoded>
-    </item>
-    <item>
       <title>Unicode Test - How about some 中文</title>
       <link>http://www.mrseaman.com/blog/2013/11/10/unicode-test-how-about-some-zhong-wen</link>
       <pubDate>Sun, 10 Nov 2013 15:22:00 EST</pubDate>
