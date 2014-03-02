@@ -7,25 +7,40 @@
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      >
   <channel>
+<<<<<<< HEAD
     <title>My Blogofile Example</title>
     <link>http://www.example.com/blog</link>
     <description>Just a simple HTML5 blog</description>
     <pubDate>Sun, 02 Mar 2014 03:58:23 GMT</pubDate>
+=======
+    <title>Mrseaman</title>
+    <link>http://www.mrseaman.com/blog</link>
+    <description>Personal Blog</description>
+    <pubDate>Sat, 14 Dec 2013 03:24:16 GMT</pubDate>
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>Syntax highlight test</title>
+<<<<<<< HEAD
       <link>http://www.example.com/blog/2011/05/11/syntax-highlight-test</link>
       <pubDate>Wed, 11 May 2011 15:25:00 EDT</pubDate>
       <category><![CDATA[general stuff]]></category>
       <guid isPermaLink="false">kJSMevgxOghVemPjY3s2DOc3Vbs=</guid>
+=======
+      <link>http://www.mrseaman.com/blog/2013/11/11/syntax-highlight-test</link>
+      <pubDate>Mon, 11 Nov 2013 15:25:00 EST</pubDate>
+      <category><![CDATA[general stuff]]></category>
+      <guid isPermaLink="false">FLR1KuYZ2DZ2r_YEkoHLng0DWg0=</guid>
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
       <description>Syntax highlight test</description>
       <content:encoded><![CDATA[<p>This post contains some highlighted python code:</p>
 <div class="pygments_murphy syntax_highlight"><pre><span class="kn">import</span> <span class="nn">this</span><br/><br/><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;main&quot;</span><span class="p">:</span><br/>    <span class="k">print</span> <span class="s">&quot;Hello, World!&quot;</span><br/></pre></div>
 
 <p>This is accomplished with the built-in <a href="https://github.com/EnigmaCurry/blogofile/blob/master/blogofile/site_init/blog_features/_filters/syntax_highlight.py">syntax highlighter filter</a></p>]]></content:encoded>
     </item>
+<<<<<<< HEAD
     <item>
       <title>Filler post 4</title>
       <link>http://www.example.com/blog/2010/06/29/filler-post-4</link>
@@ -62,5 +77,7 @@
       <description>Filler post 1</description>
       <content:encoded><![CDATA[<p>This is a filler post.</p>]]></content:encoded>
     </item>
+=======
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
   </channel>
 </rss>

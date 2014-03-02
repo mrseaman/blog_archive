@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>Mrseaman</title>
+    <link>http://www.mrseaman.com/blog</link>
+    <description>Personal Blog</description>
+    <pubDate>Sat, 14 Dec 2013 03:24:16 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>My blog has been built</title>
+      <link>http://www.mrseaman.com/blog/2013/11/12/my-blog-has-been-built</link>
+      <pubDate>Tue, 12 Nov 2013 10:26:00 EST</pubDate>
+      <category><![CDATA[miscellaneous]]></category>
+      <guid isPermaLink="false">-rHoazyg8XUM5TYc5AZnwJUs_Uk=</guid>
+      <description>My blog has been built</description>
+      <content:encoded><![CDATA[<p>This is a test post!<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>
+<a href="http://blogspot.mrseaman.com">Old blog</a></p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Testing reference.&#160;<a href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Unicode Test - How about some 中文</title>
+      <link>http://www.mrseaman.com/blog/2013/11/10/unicode-test-how-about-some-zhong-wen</link>
+      <pubDate>Sun, 10 Nov 2013 15:22:00 EST</pubDate>
+      <category><![CDATA[miscellaneous]]></category>
+      <guid isPermaLink="false">6PE8GJew9GEfnvz4T2mMGGS8hFQ=</guid>
+      <description>Unicode Test - How about some 中文</description>
+      <content:encoded><![CDATA[<p>你好
+这是一篇测试文章</p>
+<h1 id="_1">诗词</h1>
+<h2 id="_2">无题</h2>
+<blockquote>
+<p>锦瑟无端五十弦</p>
+<p>一弦一柱思华年</p>
+<p>庄生晓梦迷蝴蝶</p>
+<p>望帝春心托杜鹃</p>
+<p>沧海月明珠有泪
+蓝田日暖玉生烟
+此情可待成追忆
+只是当时已惘然</p>
+</blockquote>
+<p>So Chinese seems not work well.</p>
+<blockquote>
+<p>English quote test.
+one more line.</p>
+</blockquote>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
