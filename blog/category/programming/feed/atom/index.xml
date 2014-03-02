@@ -4,7 +4,6 @@
   xmlns:thr="http://purl.org/syndication/thread/1.0"
   xml:lang="en"
    >
-<<<<<<< HEAD
   <title type="text">Oblivion</title>
   <subtitle type="text">Shall not be forgotten</subtitle>
 
@@ -27,30 +26,6 @@
     <category scheme="http://mrsesaman.com/blog" term="programming" />
     <summary type="html"><![CDATA[Some tips on Cachelab]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2014/03/01/some-tips-on-cachelab"><![CDATA[<p>Ok.. This lab is actually not that difficult. I just made some supid error in the c code which wasted me like 4 hours to find it out.</p>
-=======
-  <title type="text">My Blogofile Example</title>
-  <subtitle type="text">Just a simple HTML5 blog</subtitle>
-
-  <updated>2014-03-02T03:58:23Z</updated>
-  <generator uri="http://blogofile.com/">Blogofile</generator>
-
-  <link rel="alternate" type="text/html" href="http://www.example.com/blog" />
-  <id>http://www.example.com/blog/feed/atom/</id>
-  <link rel="self" type="application/atom+xml" href="http://www.example.com/blog/feed/atom/" />
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://www.example.com/blog</uri>
-    </author>
-    <title type="html"><![CDATA[Some tips on Cachelab]]></title>
-    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2014/03/01/some-tips-on-cachelab" />
-    <id>http://www.example.com/blog/2014/03/01/some-tips-on-cachelab</id>
-    <updated>2014-03-01T05:01:18Z</updated>
-    <published>2014-03-01T05:01:18Z</published>
-    <category scheme="http://www.example.com/blog" term="programming" />
-    <summary type="html"><![CDATA[Some tips on Cachelab]]></summary>
-    <content type="html" xml:base="http://www.example.com/blog/2014/03/01/some-tips-on-cachelab"><![CDATA[<p>Ok.. This lab is actually not that difficult. I just made some supid error in the c code which wasted me like 4 hours to find it out.</p>
->>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 <p>There are two parts in this lab. Part A asks you to finish a cache simulator, and part B requires you to write a program to transpose matrix with limited cache miss.</p>
 <p>For part A, it should be quite easy since only hit count, miss count and eviction count are required. So just malloc some memory and then process each trace and update cache status after each trace. The results are there then.</p>
 <p>For part B, it is a little tricky for the case 64 * 64 matrix. What I did is that use a 4 * 8 subset in matrix B as a buffer so it could always be hit when reading or writing these memories.</p>

@@ -7,27 +7,16 @@
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      >
   <channel>
-<<<<<<< HEAD
     <title>Oblivion</title>
     <link>http://mrsesaman.com/blog</link>
     <description>Shall not be forgotten</description>
     <pubDate>Sun, 02 Mar 2014 04:25:22 GMT</pubDate>
-=======
-    <title>My Blogofile Example</title>
-    <link>http://www.example.com/blog</link>
-    <description>Just a simple HTML5 blog</description>
-    <pubDate>Sun, 02 Mar 2014 03:58:23 GMT</pubDate>
->>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>Post 2</title>
-<<<<<<< HEAD
       <link>http://mrsesaman.com/blog/2010/07/24/post-2</link>
-=======
-      <link>http://www.example.com/blog/2010/07/24/post-2</link>
->>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
       <pubDate>Sat, 24 Jul 2010 16:20:00 EDT</pubDate>
       <category><![CDATA[category 2]]></category>
       <category><![CDATA[category 1]]></category>
