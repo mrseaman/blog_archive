@@ -4,6 +4,7 @@
   xmlns:thr="http://purl.org/syndication/thread/1.0"
   xml:lang="en"
    >
+<<<<<<< HEAD
   <title type="text">Oblivion</title>
   <subtitle type="text">Shall not be forgotten</subtitle>
 
@@ -26,6 +27,31 @@
     <category scheme="http://mrsesaman.com/blog" term="programming" />
     <summary type="html"><![CDATA[Some tips on Cachelab]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2014/03/01/some-tips-on-cachelab"><![CDATA[<p>Ok.. This lab is actually not that difficult. I just made some supid error in the c code which wasted me like 4 hours to find it out.</p>
+=======
+<<<<<<< HEAD
+  <title type="text">My Blogofile Example</title>
+  <subtitle type="text">Just a simple HTML5 blog</subtitle>
+
+  <updated>2014-03-02T03:58:23Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.example.com/blog" />
+  <id>http://www.example.com/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.example.com/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Some tips on Cachelab]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2014/03/01/some-tips-on-cachelab" />
+    <id>http://www.example.com/blog/2014/03/01/some-tips-on-cachelab</id>
+    <updated>2014-03-01T05:01:18Z</updated>
+    <published>2014-03-01T05:01:18Z</published>
+    <category scheme="http://www.example.com/blog" term="programming" />
+    <summary type="html"><![CDATA[Some tips on Cachelab]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2014/03/01/some-tips-on-cachelab"><![CDATA[<p>Ok.. This lab is actually not that difficult. I just made some supid error in the c code which wasted me like 4 hours to find it out.</p>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 <p>There are two parts in this lab. Part A asks you to finish a cache simulator, and part B requires you to write a program to transpose matrix with limited cache miss.</p>
 <p>For part A, it should be quite easy since only hit count, miss count and eviction count are required. So just malloc some memory and then process each trace and update cache status after each trace. The results are there then.</p>
 <p>For part B, it is a little tricky for the case 64 * 64 matrix. What I did is that use a 4 * 8 subset in matrix B as a buffer so it could always be hit when reading or writing these memories.</p>
@@ -55,6 +81,7 @@
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Syntax highlight test]]></title>
@@ -65,6 +92,18 @@
     <category scheme="http://mrsesaman.com/blog" term="general stuff" />
     <summary type="html"><![CDATA[Syntax highlight test]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2011/05/11/syntax-highlight-test"><![CDATA[<p>This post contains some highlighted python code:</p>
+=======
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Syntax highlight test]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2011/05/11/syntax-highlight-test" />
+    <id>http://www.example.com/blog/2011/05/11/syntax-highlight-test</id>
+    <updated>2011-05-11T15:25:00Z</updated>
+    <published>2011-05-11T15:25:00Z</published>
+    <category scheme="http://www.example.com/blog" term="general stuff" />
+    <summary type="html"><![CDATA[Syntax highlight test]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2011/05/11/syntax-highlight-test"><![CDATA[<p>This post contains some highlighted python code:</p>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 <div class="pygments_murphy syntax_highlight"><pre><span class="kn">import</span> <span class="nn">this</span><br/><br/><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;main&quot;</span><span class="p">:</span><br/>    <span class="k">print</span> <span class="s">&quot;Hello, World!&quot;</span><br/></pre></div>
 
 <p>This is accomplished with the built-in <a href="https://github.com/EnigmaCurry/blogofile/blob/master/blogofile/site_init/blog_features/_filters/syntax_highlight.py">syntax highlighter filter</a></p>]]></content>
@@ -72,6 +111,7 @@
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Post 3 - Unicode Test - How about some 日本語テスト]]></title>
@@ -82,6 +122,18 @@
     <category scheme="http://mrsesaman.com/blog" term="unicode" />
     <summary type="html"><![CDATA[Post 3 - Unicode Test - How about some 日本語テスト]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto"><![CDATA[<p>Anglo-Saxon Rune Poem:</p>
+=======
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Post 3 - Unicode Test - How about some 日本語テスト]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto" />
+    <id>http://www.example.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto</id>
+    <updated>2011-05-10T15:22:00Z</updated>
+    <published>2011-05-10T15:22:00Z</published>
+    <category scheme="http://www.example.com/blog" term="unicode" />
+    <summary type="html"><![CDATA[Post 3 - Unicode Test - How about some 日本語テスト]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto"><![CDATA[<p>Anglo-Saxon Rune Poem:</p>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 <p>ᚠᛇᚻ᛫ᛒᛦᚦ᛫ᚠᚱᚩᚠᚢᚱ᛫ᚠᛁᚱᚪ᛫ᚷᛖᚻᚹᛦᛚᚳᚢᛗ
 ᛋᚳᛖᚪᛚ᛫ᚦᛖᚪᚻ᛫ᛗᚪᚾᚾᚪ᛫ᚷᛖᚻᚹᛦᛚᚳ᛫ᛗᛁᚳᛚᚢᚾ᛫ᚻᛦᛏ᛫ᛞᚫᛚᚪᚾ
 ᚷᛁᚠ᛫ᚻᛖ᛫ᚹᛁᛚᛖ᛫ᚠᚩᚱ᛫ᛞᚱᛁᚻᛏᚾᛖ᛫ᛞᚩᛗᛖᛋ᛫ᚻᛚᛇᛏᚪᚾ᛬</p>
@@ -101,6 +153,7 @@ I kå Glas frässa, ond des macht mr nix!
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Post 2]]></title>
@@ -112,6 +165,19 @@ I kå Glas frässa, ond des macht mr nix!
     <category scheme="http://mrsesaman.com/blog" term="category 1" />
     <summary type="html"><![CDATA[Post 2]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2010/07/24/post-2"><![CDATA[<p>This is post #2.</p>
+=======
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Post 2]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2010/07/24/post-2" />
+    <id>http://www.example.com/blog/2010/07/24/post-2</id>
+    <updated>2010-07-24T16:20:00Z</updated>
+    <published>2010-07-24T16:20:00Z</published>
+    <category scheme="http://www.example.com/blog" term="category 2" />
+    <category scheme="http://www.example.com/blog" term="category 1" />
+    <summary type="html"><![CDATA[Post 2]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2010/07/24/post-2"><![CDATA[<p>This is post #2.</p>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 <p>This post just shows off some <a href="http://www.freewisdom.org/projects/python-markdown/" title="Markdown in Python">markdown</a> features. Markdown is a simple <abbr title="Hyper Text Markup Language (this is just an abbreviation test)">HTML</abbr> markup language in plain text, so it's easier to read and write.</p>
 <h1 id="this-is-a-heading">This is a heading</h1>
 <p>This is a reference<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> to a footnote.</p>
@@ -150,11 +216,47 @@ the family Rosaceae.</dd>
 print(&quot;2 + 2 = {0}&quot;.format(2+2))
 </code></pre>
 
+<<<<<<< HEAD
+=======
+=======
+  <title type="text">Mrseaman</title>
+  <subtitle type="text">Personal Blog</subtitle>
+
+  <updated>2013-12-14T03:24:16Z</updated>
+  <generator uri="http://blogofile.com/">Blogofile</generator>
+
+  <link rel="alternate" type="text/html" href="http://www.mrseaman.com/blog" />
+  <id>http://www.mrseaman.com/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://www.mrseaman.com/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name></name>
+      <uri>http://www.mrseaman.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[My blog has been built]]></title>
+    <link rel="alternate" type="text/html" href="http://www.mrseaman.com/blog/2013/11/12/my-blog-has-been-built" />
+    <id>http://www.mrseaman.com/blog/2013/11/12/my-blog-has-been-built</id>
+    <updated>2013-11-12T10:26:00Z</updated>
+    <published>2013-11-12T10:26:00Z</published>
+    <category scheme="http://www.mrseaman.com/blog" term="miscellaneous" />
+    <summary type="html"><![CDATA[My blog has been built]]></summary>
+    <content type="html" xml:base="http://www.mrseaman.com/blog/2013/11/12/my-blog-has-been-built"><![CDATA[<p>This is a test post!<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>
+<a href="http://blogspot.mrseaman.com">Old blog</a></p>
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 <div class="footnote">
 <hr />
 <ol>
 <li id="fn:1">
+<<<<<<< HEAD
 <p>This is a footnote.&#160;<a href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+=======
+<<<<<<< HEAD
+<p>This is a footnote.&#160;<a href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+=======
+<p>Testing reference.&#160;<a href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
 </li>
 </ol>
 </div>]]></content>
@@ -162,6 +264,7 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Post 1]]></title>
@@ -172,10 +275,24 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     <category scheme="http://mrsesaman.com/blog" term="category 1" />
     <summary type="html"><![CDATA[Post 1]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2010/07/23/post-1"><![CDATA[<p>This is post #1</p>]]></content>
+=======
+<<<<<<< HEAD
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Post 1]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2010/07/23/post-1" />
+    <id>http://www.example.com/blog/2010/07/23/post-1</id>
+    <updated>2010-07-23T15:22:00Z</updated>
+    <published>2010-07-23T15:22:00Z</published>
+    <category scheme="http://www.example.com/blog" term="category 1" />
+    <summary type="html"><![CDATA[Post 1]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2010/07/23/post-1"><![CDATA[<p>This is post #1</p>]]></content>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
   </entry>
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Filler post 4]]></title>
@@ -186,10 +303,23 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     <category scheme="http://mrsesaman.com/blog" term="general stuff" />
     <summary type="html"><![CDATA[Filler post 4]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2010/06/29/filler-post-4"><![CDATA[<p>This is a filler post.</p>]]></content>
+=======
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Filler post 4]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2010/06/29/filler-post-4" />
+    <id>http://www.example.com/blog/2010/06/29/filler-post-4</id>
+    <updated>2010-06-29T15:28:00Z</updated>
+    <published>2010-06-29T15:28:00Z</published>
+    <category scheme="http://www.example.com/blog" term="general stuff" />
+    <summary type="html"><![CDATA[Filler post 4]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2010/06/29/filler-post-4"><![CDATA[<p>This is a filler post.</p>]]></content>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
   </entry>
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Filler post 3]]></title>
@@ -200,10 +330,23 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     <category scheme="http://mrsesaman.com/blog" term="general stuff" />
     <summary type="html"><![CDATA[Filler post 3]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2010/06/29/filler-post-3"><![CDATA[<p>This is a filler post.</p>]]></content>
+=======
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Filler post 3]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2010/06/29/filler-post-3" />
+    <id>http://www.example.com/blog/2010/06/29/filler-post-3</id>
+    <updated>2010-06-29T15:27:00Z</updated>
+    <published>2010-06-29T15:27:00Z</published>
+    <category scheme="http://www.example.com/blog" term="general stuff" />
+    <summary type="html"><![CDATA[Filler post 3]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2010/06/29/filler-post-3"><![CDATA[<p>This is a filler post.</p>]]></content>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
   </entry>
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Filler post 2]]></title>
@@ -214,10 +357,38 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     <category scheme="http://mrsesaman.com/blog" term="general stuff" />
     <summary type="html"><![CDATA[Filler post 2]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2010/06/29/filler-post-2"><![CDATA[<p>This is a filler post.</p>]]></content>
+=======
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Filler post 2]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2010/06/29/filler-post-2" />
+    <id>http://www.example.com/blog/2010/06/29/filler-post-2</id>
+    <updated>2010-06-29T15:26:00Z</updated>
+    <published>2010-06-29T15:26:00Z</published>
+    <category scheme="http://www.example.com/blog" term="general stuff" />
+    <summary type="html"><![CDATA[Filler post 2]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2010/06/29/filler-post-2"><![CDATA[<p>This is a filler post.</p>]]></content>
+=======
+      <uri>http://www.mrseaman.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Syntax highlight test]]></title>
+    <link rel="alternate" type="text/html" href="http://www.mrseaman.com/blog/2013/11/11/syntax-highlight-test" />
+    <id>http://www.mrseaman.com/blog/2013/11/11/syntax-highlight-test</id>
+    <updated>2013-11-11T15:25:00Z</updated>
+    <published>2013-11-11T15:25:00Z</published>
+    <category scheme="http://www.mrseaman.com/blog" term="general stuff" />
+    <summary type="html"><![CDATA[Syntax highlight test]]></summary>
+    <content type="html" xml:base="http://www.mrseaman.com/blog/2013/11/11/syntax-highlight-test"><![CDATA[<p>This post contains some highlighted python code:</p>
+<div class="pygments_murphy syntax_highlight"><pre><span class="kn">import</span> <span class="nn">this</span><br/><br/><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;main&quot;</span><span class="p">:</span><br/>    <span class="k">print</span> <span class="s">&quot;Hello, World!&quot;</span><br/></pre></div>
+
+<p>This is accomplished with the built-in <a href="https://github.com/EnigmaCurry/blogofile/blob/master/blogofile/site_init/blog_features/_filters/syntax_highlight.py">syntax highlighter filter</a></p>]]></content>
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
   </entry>
   <entry>
     <author>
       <name></name>
+<<<<<<< HEAD
       <uri>http://mrsesaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Filler post 1]]></title>
@@ -228,5 +399,48 @@ print(&quot;2 + 2 = {0}&quot;.format(2+2))
     <category scheme="http://mrsesaman.com/blog" term="general stuff" />
     <summary type="html"><![CDATA[Filler post 1]]></summary>
     <content type="html" xml:base="http://mrsesaman.com/blog/2010/06/29/filler-post-1"><![CDATA[<p>This is a filler post.</p>]]></content>
+=======
+<<<<<<< HEAD
+      <uri>http://www.example.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Filler post 1]]></title>
+    <link rel="alternate" type="text/html" href="http://www.example.com/blog/2010/06/29/filler-post-1" />
+    <id>http://www.example.com/blog/2010/06/29/filler-post-1</id>
+    <updated>2010-06-29T15:25:00Z</updated>
+    <published>2010-06-29T15:25:00Z</published>
+    <category scheme="http://www.example.com/blog" term="general stuff" />
+    <summary type="html"><![CDATA[Filler post 1]]></summary>
+    <content type="html" xml:base="http://www.example.com/blog/2010/06/29/filler-post-1"><![CDATA[<p>This is a filler post.</p>]]></content>
+=======
+      <uri>http://www.mrseaman.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[Unicode Test - How about some 中文]]></title>
+    <link rel="alternate" type="text/html" href="http://www.mrseaman.com/blog/2013/11/10/unicode-test-how-about-some-zhong-wen" />
+    <id>http://www.mrseaman.com/blog/2013/11/10/unicode-test-how-about-some-zhong-wen</id>
+    <updated>2013-11-10T15:22:00Z</updated>
+    <published>2013-11-10T15:22:00Z</published>
+    <category scheme="http://www.mrseaman.com/blog" term="miscellaneous" />
+    <summary type="html"><![CDATA[Unicode Test - How about some 中文]]></summary>
+    <content type="html" xml:base="http://www.mrseaman.com/blog/2013/11/10/unicode-test-how-about-some-zhong-wen"><![CDATA[<p>你好
+这是一篇测试文章</p>
+<h1 id="_1">诗词</h1>
+<h2 id="_2">无题</h2>
+<blockquote>
+<p>锦瑟无端五十弦</p>
+<p>一弦一柱思华年</p>
+<p>庄生晓梦迷蝴蝶</p>
+<p>望帝春心托杜鹃</p>
+<p>沧海月明珠有泪
+蓝田日暖玉生烟
+此情可待成追忆
+只是当时已惘然</p>
+</blockquote>
+<p>So Chinese seems not work well.</p>
+<blockquote>
+<p>English quote test.
+one more line.</p>
+</blockquote>]]></content>
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
   </entry>
 </feed>

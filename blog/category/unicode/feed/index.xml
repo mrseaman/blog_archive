@@ -7,16 +7,27 @@
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      >
   <channel>
+<<<<<<< HEAD
     <title>Oblivion</title>
     <link>http://mrsesaman.com/blog</link>
     <description>Shall not be forgotten</description>
     <pubDate>Sun, 02 Mar 2014 04:25:22 GMT</pubDate>
+=======
+    <title>My Blogofile Example</title>
+    <link>http://www.example.com/blog</link>
+    <description>Just a simple HTML5 blog</description>
+    <pubDate>Sun, 02 Mar 2014 03:58:23 GMT</pubDate>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>Post 3 - Unicode Test - How about some 日本語テスト</title>
+<<<<<<< HEAD
       <link>http://mrsesaman.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto</link>
+=======
+      <link>http://www.example.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto</link>
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
       <pubDate>Tue, 10 May 2011 15:22:00 EDT</pubDate>
       <category><![CDATA[unicode]]></category>
       <guid isPermaLink="false">B49PSSr_wWGUI8DUq4YBvHEXvYE=</guid>

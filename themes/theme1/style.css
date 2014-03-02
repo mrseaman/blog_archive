@@ -15,14 +15,36 @@ html {
 }
 
 body {
+<<<<<<< HEAD
     background: #000;
     background-image: -webkit-gradient(
+=======
+<<<<<<< HEAD
+    background: #000;
+    background-image: -webkit-gradient(
+=======
+    background: #909090;
+    /*
+	background-image: -webkit-gradient(
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
         linear,
         left bottom,
         left top,
         color-stop(0, rgb(12,13,13)),
+<<<<<<< HEAD
         color-stop(0.6, rgb(30,46,87))
     );
+=======
+<<<<<<< HEAD
+        color-stop(0.6, rgb(30,46,87))
+    );
+=======
+        color-stop(0.6, rgb(30,144,255))
+    );
+    */
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
     background-image: -moz-linear-gradient(
         center bottom,
         rgb(12,13,13) 0%,
@@ -96,7 +118,15 @@ div#header a {
 /****************************/
 div#navigation {
     border-top: 1px solid #fff;
+<<<<<<< HEAD
     background: #2A4480;
+=======
+<<<<<<< HEAD
+    background: #2A4480;
+=======
+    background: #808080;
+>>>>>>> b00df7885479dedeb419bb370b6ac31ca17a0fd1
+>>>>>>> c3b0f4737903ea2200c5621ab4d2746764f8cc06
     width: 100%;
     margin: 0;
 }
