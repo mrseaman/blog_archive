@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     >
+  <channel>
+    <title>Oblivion</title>
+    <link>http://mrsesaman.com/blog</link>
+    <description>Shall not be forgotten</description>
+    <pubDate>Fri, 03 Oct 2014 04:58:43 GMT</pubDate>
+    <generator>Blogofile</generator>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Trip to Yellowstone National Park</title>
+      <link>http://mrsesaman.com/blog/2014/09/24/trip-to-yellowstone-national-park</link>
+      <pubDate>Wed, 24 Sep 2014 13:40:00 EDT</pubDate>
+      <category><![CDATA[traveling]]></category>
+      <guid isPermaLink="false">CmhXEIIBCpr3_zKwenxkIXZSKJY=</guid>
+      <description>Trip to Yellowstone National Park</description>
+      <content:encoded><![CDATA[<p>先挖个坑，慢慢补全
+7月份去了 Yellowstone，算是来美国以后真正意义上第一次去国家公园吧。(虽然春假去了 Great Smoky Mountain，但是那一趟实在太水了，都没有 Hiking..以后有机会要重新再去一次)。
+自己很坑的用胶片机照了所有的照片，但是现在也没有选上 B&amp;W Photography 的课，于是拍的两卷也不知道什么时候才能洗出来了。目测只有下次回国的时候拿回去洗了。</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
