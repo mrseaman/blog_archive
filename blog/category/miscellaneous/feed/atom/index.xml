@@ -7,12 +7,30 @@
   <title type="text">Oblivion</title>
   <subtitle type="text">Shall not be forgotten</subtitle>
 
-  <updated>2014-10-03T05:02:17Z</updated>
+  <updated>2014-11-05T03:31:02Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog" />
   <id>http://mrsesaman.com/blog/feed/atom/</id>
   <link rel="self" type="application/atom+xml" href="http://mrsesaman.com/blog/feed/atom/" />
+  <entry>
+    <author>
+      <name>Zechen Zhang</name>
+      <uri>http://mrsesaman.com/blog</uri>
+    </author>
+    <title type="html"><![CDATA[180 lbs]]></title>
+    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/11/04/180-lbs" />
+    <id>http://mrsesaman.com/blog/2014/11/04/180-lbs</id>
+    <updated>2014-11-04T22:00:00Z</updated>
+    <published>2014-11-04T22:00:00Z</published>
+    <category scheme="http://mrsesaman.com/blog" term="miscellaneous" />
+    <summary type="html"><![CDATA[180 lbs]]></summary>
+    <content type="html" xml:base="http://mrsesaman.com/blog/2014/11/04/180-lbs"><![CDATA[<p>Weight losing for about 6 weeks now, and I've lost about 15 lbs.</p>
+<p>Gladly, I achieved 15 lbs today.</p>
+<p>Below is a chart plotted with daily recorded data of my bodyweight. According current trend, I still need a little bit more than two months to complete the goal of 160 lbs.
+If everything goes well, I may write something about my experience of fitness and weight losing later.</p>
+<iframe width="657" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1g9xVAk_aST3kzorVhbB-hdrjY7QKu8kYlilfRl62h-c/pubchart?oid=198236923&amp;format=interactive"></iframe>]]></content>
+  </entry>
   <entry>
     <author>
       <name></name>
