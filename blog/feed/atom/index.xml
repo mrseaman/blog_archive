@@ -7,25 +7,25 @@
   <title type="text">Oblivion</title>
   <subtitle type="text">Shall not be forgotten</subtitle>
 
-  <updated>2014-11-05T03:31:02Z</updated>
+  <updated>2014-11-06T06:35:08Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
-  <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog" />
-  <id>http://mrsesaman.com/blog/feed/atom/</id>
-  <link rel="self" type="application/atom+xml" href="http://mrsesaman.com/blog/feed/atom/" />
+  <link rel="alternate" type="text/html" href="http://mrseaman.com/blog" />
+  <id>http://mrseaman.com/blog/feed/atom/</id>
+  <link rel="self" type="application/atom+xml" href="http://mrseaman.com/blog/feed/atom/" />
   <entry>
     <author>
       <name>Zechen Zhang</name>
-      <uri>http://mrsesaman.com/blog</uri>
+      <uri>http://mrseaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[180 lbs]]></title>
-    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/11/04/180-lbs" />
-    <id>http://mrsesaman.com/blog/2014/11/04/180-lbs</id>
+    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/11/04/180-lbs" />
+    <id>http://mrseaman.com/blog/2014/11/04/180-lbs</id>
     <updated>2014-11-04T22:00:00Z</updated>
     <published>2014-11-04T22:00:00Z</published>
-    <category scheme="http://mrsesaman.com/blog" term="miscellaneous" />
+    <category scheme="http://mrseaman.com/blog" term="miscellaneous" />
     <summary type="html"><![CDATA[180 lbs]]></summary>
-    <content type="html" xml:base="http://mrsesaman.com/blog/2014/11/04/180-lbs"><![CDATA[<p>Weight losing for about 6 weeks now, and I've lost about 15 lbs.</p>
+    <content type="html" xml:base="http://mrseaman.com/blog/2014/11/04/180-lbs"><![CDATA[<p>Weight losing for about 6 weeks now, and I've lost about 15 lbs.</p>
 <p>Gladly, I achieved 15 lbs today.</p>
 <p>Below is a chart plotted with daily recorded data of my bodyweight. According current trend, I still need a little bit more than two months to complete the goal of 160 lbs.
 If everything goes well, I may write something about my experience of fitness and weight losing later.</p>
@@ -33,33 +33,34 @@ If everything goes well, I may write something about my experience of fitness an
   </entry>
   <entry>
     <author>
-      <name></name>
-      <uri>http://mrsesaman.com/blog</uri>
+      <name>Zechen Zhang</name>
+      <uri>http://mrseaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Trip to Yellowstone National Park]]></title>
-    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/09/24/trip-to-yellowstone-national-park" />
-    <id>http://mrsesaman.com/blog/2014/09/24/trip-to-yellowstone-national-park</id>
+    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/09/24/trip-to-yellowstone-national-park" />
+    <id>http://mrseaman.com/blog/2014/09/24/trip-to-yellowstone-national-park</id>
     <updated>2014-09-24T13:40:00Z</updated>
     <published>2014-09-24T13:40:00Z</published>
-    <category scheme="http://mrsesaman.com/blog" term="traveling" />
+    <category scheme="http://mrseaman.com/blog" term="traveling" />
     <summary type="html"><![CDATA[Trip to Yellowstone National Park]]></summary>
-    <content type="html" xml:base="http://mrsesaman.com/blog/2014/09/24/trip-to-yellowstone-national-park"><![CDATA[<p>先挖个坑，慢慢补全
+    <content type="html" xml:base="http://mrseaman.com/blog/2014/09/24/trip-to-yellowstone-national-park"><![CDATA[<p>先挖个坑，慢慢补全
 7月份去了 Yellowstone，算是来美国以后真正意义上第一次去国家公园吧。(虽然春假去了 Great Smoky Mountain，但是那一趟实在太水了，都没有 Hiking..以后有机会要重新再去一次)。
-自己很坑的用胶片机照了所有的照片，但是现在也没有选上 B&amp;W Photography 的课，于是拍的两卷也不知道什么时候才能洗出来了。目测只有下次回国的时候拿回去洗了。</p>]]></content>
+自己很坑的用胶片机照了所有的照片，但是现在也没有选上 B&amp;W Photography 的课，于是拍的两卷也不知道什么时候才能洗出来了。目测只有下次回国的时候拿回去洗了。</p>
+<p><img> </p>]]></content>
   </entry>
   <entry>
     <author>
       <name></name>
-      <uri>http://mrsesaman.com/blog</uri>
+      <uri>http://mrseaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[读书笔记－傅雷家书（1）]]></title>
-    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)" />
-    <id>http://mrsesaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)</id>
+    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)" />
+    <id>http://mrseaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)</id>
     <updated>2014-09-06T10:36:18Z</updated>
     <published>2014-09-06T10:36:18Z</published>
-    <category scheme="http://mrsesaman.com/blog" term="reading" />
+    <category scheme="http://mrseaman.com/blog" term="reading" />
     <summary type="html"><![CDATA[读书笔记－傅雷家书（1）]]></summary>
-    <content type="html" xml:base="http://mrsesaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)"><![CDATA[<p>近来不打 DotA 了，于是晚上多了些时间。手边也只有这么一本书，就拿来读读。</p>
+    <content type="html" xml:base="http://mrseaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)"><![CDATA[<p>近来不打 DotA 了，于是晚上多了些时间。手边也只有这么一本书，就拿来读读。</p>
 <p>回想起来自己高中以来没有好好地看书了，平时看的也都是些理工科类的书，教材一类的，人文相关的书几乎没有接触过。时间大多被游戏与网络瓜分，现在想想这些实在不好。所谓思而不学则殆，这么6、7年的空缺但愿还能补得回来。</p>
 <p>这三天看了几十页，里面书信的时间大概是五十年代中期，是当时傅雷与其长子傅聪的日常交流，大约1-2周便有一封信。傅聪到俄罗斯、波兰学习音乐，年龄也与我们这些留学生相仿，甚至还要年轻一些。傅雷夫妇在书信中给了傅聪许多建议，许多我看来现在也还是适用的。</p>
 <blockquote>
@@ -73,31 +74,31 @@ If everything goes well, I may write something about my experience of fitness an
   <entry>
     <author>
       <name></name>
-      <uri>http://mrsesaman.com/blog</uri>
+      <uri>http://mrseaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[注音输入法]]></title>
-    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa" />
-    <id>http://mrsesaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa</id>
+    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa" />
+    <id>http://mrseaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa</id>
     <updated>2014-07-21T18:04:00Z</updated>
     <published>2014-07-21T18:04:00Z</published>
-    <category scheme="http://mrsesaman.com/blog" term="miscellaneous" />
+    <category scheme="http://mrseaman.com/blog" term="miscellaneous" />
     <summary type="html"><![CDATA[注音输入法]]></summary>
-    <content type="html" xml:base="http://mrsesaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa"><![CDATA[<p>这是一篇用注音输入法写出的文章！</p>
+    <content type="html" xml:base="http://mrseaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa"><![CDATA[<p>这是一篇用注音输入法写出的文章！</p>
 <p>发现了注音输入法的规律后学习起来就容易多了！</p>]]></content>
   </entry>
   <entry>
     <author>
       <name></name>
-      <uri>http://mrsesaman.com/blog</uri>
+      <uri>http://mrseaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[S14 Summary]]></title>
-    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/05/15/s14-summary" />
-    <id>http://mrsesaman.com/blog/2014/05/15/s14-summary</id>
+    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/05/15/s14-summary" />
+    <id>http://mrseaman.com/blog/2014/05/15/s14-summary</id>
     <updated>2014-05-15T05:01:18Z</updated>
     <published>2014-05-15T05:01:18Z</published>
-    <category scheme="http://mrsesaman.com/blog" term="miscellaneous" />
+    <category scheme="http://mrseaman.com/blog" term="miscellaneous" />
     <summary type="html"><![CDATA[S14 Summary]]></summary>
-    <content type="html" xml:base="http://mrsesaman.com/blog/2014/05/15/s14-summary"><![CDATA[<p>All grades are given today. Sadly I got 2 Bs on 06-640 and 39-802.</p>
+    <content type="html" xml:base="http://mrseaman.com/blog/2014/05/15/s14-summary"><![CDATA[<p>All grades are given today. Sadly I got 2 Bs on 06-640 and 39-802.</p>
 <p>Basically, I recognize this semester as my most hard working semester in recent few years. However, really shouldn't take 06-640. Totally lost in the content of the course.</p>
 <ul>
 <li>15-213 is a good course, did learn a lot from it. </li>
@@ -110,16 +111,16 @@ If everything goes well, I may write something about my experience of fitness an
   <entry>
     <author>
       <name></name>
-      <uri>http://mrsesaman.com/blog</uri>
+      <uri>http://mrseaman.com/blog</uri>
     </author>
     <title type="html"><![CDATA[Some tips on Cachelab]]></title>
-    <link rel="alternate" type="text/html" href="http://mrsesaman.com/blog/2014/03/01/some-tips-on-cachelab" />
-    <id>http://mrsesaman.com/blog/2014/03/01/some-tips-on-cachelab</id>
+    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/03/01/some-tips-on-cachelab" />
+    <id>http://mrseaman.com/blog/2014/03/01/some-tips-on-cachelab</id>
     <updated>2014-03-01T05:01:18Z</updated>
     <published>2014-03-01T05:01:18Z</published>
-    <category scheme="http://mrsesaman.com/blog" term="programming" />
+    <category scheme="http://mrseaman.com/blog" term="programming" />
     <summary type="html"><![CDATA[Some tips on Cachelab]]></summary>
-    <content type="html" xml:base="http://mrsesaman.com/blog/2014/03/01/some-tips-on-cachelab"><![CDATA[<p>Ok.. This lab is actually not that difficult. I just made some supid error in the c code which wasted me like 4 hours to find it out.</p>
+    <content type="html" xml:base="http://mrseaman.com/blog/2014/03/01/some-tips-on-cachelab"><![CDATA[<p>Ok.. This lab is actually not that difficult. I just made some supid error in the c code which wasted me like 4 hours to find it out.</p>
 <p>There are two parts in this lab. Part A asks you to finish a cache simulator, and part B requires you to write a program to transpose matrix with limited cache miss.</p>
 <p>For part A, it should be quite easy since only hit count, miss count and eviction count are required. So just malloc some memory and then process each trace and update cache status after each trace. The results are there then.</p>
 <p>For part B, it is a little tricky for the case 64 * 64 matrix. What I did is that use a 4 * 8 subset in matrix B as a buffer so it could always be hit when reading or writing these memories.</p>
