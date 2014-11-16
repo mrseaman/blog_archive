@@ -8,15 +8,15 @@
      >
   <channel>
     <title>Oblivion</title>
-    <link>http://mrseaman.com/blog</link>
+    <link>http://mrsesaman.com/blog</link>
     <description>Shall not be forgotten</description>
-    <pubDate>Thu, 06 Nov 2014 06:35:08 GMT</pubDate>
+    <pubDate>Sun, 16 Nov 2014 21:34:35 GMT</pubDate>
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>180 lbs</title>
-      <link>http://mrseaman.com/blog/2014/11/04/180-lbs</link>
+      <link>http://mrsesaman.com/blog/2014/11/04/180-lbs</link>
       <pubDate>Tue, 04 Nov 2014 22:00:00 EST</pubDate>
       <category><![CDATA[miscellaneous]]></category>
       <guid isPermaLink="false">m-GrV9B-RkxUox1xarSrGKZJgoY=</guid>
@@ -29,19 +29,18 @@ If everything goes well, I may write something about my experience of fitness an
     </item>
     <item>
       <title>Trip to Yellowstone National Park</title>
-      <link>http://mrseaman.com/blog/2014/09/24/trip-to-yellowstone-national-park</link>
+      <link>http://mrsesaman.com/blog/2014/09/24/trip-to-yellowstone-national-park</link>
       <pubDate>Wed, 24 Sep 2014 13:40:00 EDT</pubDate>
       <category><![CDATA[traveling]]></category>
       <guid isPermaLink="false">CmhXEIIBCpr3_zKwenxkIXZSKJY=</guid>
       <description>Trip to Yellowstone National Park</description>
       <content:encoded><![CDATA[<p>先挖个坑，慢慢补全
 7月份去了 Yellowstone，算是来美国以后真正意义上第一次去国家公园吧。(虽然春假去了 Great Smoky Mountain，但是那一趟实在太水了，都没有 Hiking..以后有机会要重新再去一次)。
-自己很坑的用胶片机照了所有的照片，但是现在也没有选上 B&amp;W Photography 的课，于是拍的两卷也不知道什么时候才能洗出来了。目测只有下次回国的时候拿回去洗了。</p>
-<p><img> </p>]]></content:encoded>
+自己很坑的用胶片机照了所有的照片，但是现在也没有选上 B&amp;W Photography 的课，于是拍的两卷也不知道什么时候才能洗出来了。目测只有下次回国的时候拿回去洗了。</p>]]></content:encoded>
     </item>
     <item>
       <title>读书笔记－傅雷家书（1）</title>
-      <link>http://mrseaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)</link>
+      <link>http://mrsesaman.com/blog/2014/09/06/du-shu-bi-ji--fu-lei-jia-shu-(1)</link>
       <pubDate>Sat, 06 Sep 2014 10:36:18 EDT</pubDate>
       <category><![CDATA[reading]]></category>
       <guid isPermaLink="false">kyVAQbHDD5VZMuQenVqRtdExsQ0=</guid>
@@ -59,7 +58,7 @@ If everything goes well, I may write something about my experience of fitness an
     </item>
     <item>
       <title>注音输入法</title>
-      <link>http://mrseaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa</link>
+      <link>http://mrsesaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa</link>
       <pubDate>Mon, 21 Jul 2014 18:04:00 EDT</pubDate>
       <category><![CDATA[miscellaneous]]></category>
       <guid isPermaLink="false">-e4Xs8G36nk1m1veMY3czBse1ZE=</guid>
@@ -69,7 +68,7 @@ If everything goes well, I may write something about my experience of fitness an
     </item>
     <item>
       <title>S14 Summary</title>
-      <link>http://mrseaman.com/blog/2014/05/15/s14-summary</link>
+      <link>http://mrsesaman.com/blog/2014/05/15/s14-summary</link>
       <pubDate>Thu, 15 May 2014 05:01:18 EDT</pubDate>
       <category><![CDATA[miscellaneous]]></category>
       <guid isPermaLink="false">W1NQLrMBJJlZycOMpZ8vidEl-YM=</guid>
@@ -86,7 +85,7 @@ If everything goes well, I may write something about my experience of fitness an
     </item>
     <item>
       <title>Some tips on Cachelab</title>
-      <link>http://mrseaman.com/blog/2014/03/01/some-tips-on-cachelab</link>
+      <link>http://mrsesaman.com/blog/2014/03/01/some-tips-on-cachelab</link>
       <pubDate>Sat, 01 Mar 2014 05:01:18 EST</pubDate>
       <category><![CDATA[programming]]></category>
       <guid isPermaLink="false">7sL2_e99wSdCfCtv2Ub9p6CdW5M=</guid>
@@ -110,15 +109,16 @@ If everything goes well, I may write something about my experience of fitness an
 <p>Then the buffer would be of great help for us.</p>
 <p>Opperations are like:</p>
 <ul>
-<li>1T -&gt; T1</li>
-<li>2T -&gt; T2</li>
-<li>4T -&gt; 4'</li>
-<li>T2 -&gt; 3'</li>
-<li>3T -&gt; T2</li>
-<li>T1 -&gt; 1'</li>
-<li>T2 -&gt; 2'</li>
+<li>1 T-&gt; buffer 1</li>
+<li>2 T-&gt; buffer 2</li>
+<li>4 T-&gt; 4'</li>
+<li>buffer 2 -&gt; 3'</li>
+<li>3 T-&gt; buffer 2</li>
+<li>buffer 1 -&gt; 1'</li>
+<li>buffer 2 -&gt; 2'</li>
 </ul>
-<p>These operations designed in 4 * 4 should only causes 16 misses for the transpose of a 8 * 8 submatrix.</p>]]></content:encoded>
+<p>Here T stands for transpose and '-&gt;' stands for move, all operations are based on a 4*4 submatrix base.</p>
+<p>These operations designed in 4 * 4 should only causes 16 misses for the transpose of a 8 * 8 submatrix. There would be some submatrixs left, but they are easy to handle.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
