@@ -7,30 +7,12 @@
   <title type="text">Oblivion</title>
   <subtitle type="text">Shall not be forgotten</subtitle>
 
-  <updated>2014-11-06T06:35:08Z</updated>
+  <updated>2014-11-26T00:26:04Z</updated>
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="http://mrseaman.com/blog" />
   <id>http://mrseaman.com/blog/feed/atom/</id>
   <link rel="self" type="application/atom+xml" href="http://mrseaman.com/blog/feed/atom/" />
-  <entry>
-    <author>
-      <name>Zechen Zhang</name>
-      <uri>http://mrseaman.com/blog</uri>
-    </author>
-    <title type="html"><![CDATA[180 lbs]]></title>
-    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/11/04/180-lbs" />
-    <id>http://mrseaman.com/blog/2014/11/04/180-lbs</id>
-    <updated>2014-11-04T22:00:00Z</updated>
-    <published>2014-11-04T22:00:00Z</published>
-    <category scheme="http://mrseaman.com/blog" term="miscellaneous" />
-    <summary type="html"><![CDATA[180 lbs]]></summary>
-    <content type="html" xml:base="http://mrseaman.com/blog/2014/11/04/180-lbs"><![CDATA[<p>Weight losing for about 6 weeks now, and I've lost about 15 lbs.</p>
-<p>Gladly, I achieved 15 lbs today.</p>
-<p>Below is a chart plotted with daily recorded data of my bodyweight. According current trend, I still need a little bit more than two months to complete the goal of 160 lbs.
-If everything goes well, I may write something about my experience of fitness and weight losing later.</p>
-<iframe width="657" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1g9xVAk_aST3kzorVhbB-hdrjY7QKu8kYlilfRl62h-c/pubchart?oid=198236923&amp;format=interactive"></iframe>]]></content>
-  </entry>
   <entry>
     <author>
       <name></name>
@@ -45,27 +27,5 @@ If everything goes well, I may write something about my experience of fitness an
     <summary type="html"><![CDATA[注音输入法]]></summary>
     <content type="html" xml:base="http://mrseaman.com/blog/2014/07/21/zhu-yin-shu-ru-fa"><![CDATA[<p>这是一篇用注音输入法写出的文章！</p>
 <p>发现了注音输入法的规律后学习起来就容易多了！</p>]]></content>
-  </entry>
-  <entry>
-    <author>
-      <name></name>
-      <uri>http://mrseaman.com/blog</uri>
-    </author>
-    <title type="html"><![CDATA[S14 Summary]]></title>
-    <link rel="alternate" type="text/html" href="http://mrseaman.com/blog/2014/05/15/s14-summary" />
-    <id>http://mrseaman.com/blog/2014/05/15/s14-summary</id>
-    <updated>2014-05-15T05:01:18Z</updated>
-    <published>2014-05-15T05:01:18Z</published>
-    <category scheme="http://mrseaman.com/blog" term="miscellaneous" />
-    <summary type="html"><![CDATA[S14 Summary]]></summary>
-    <content type="html" xml:base="http://mrseaman.com/blog/2014/05/15/s14-summary"><![CDATA[<p>All grades are given today. Sadly I got 2 Bs on 06-640 and 39-802.</p>
-<p>Basically, I recognize this semester as my most hard working semester in recent few years. However, really shouldn't take 06-640. Totally lost in the content of the course.</p>
-<ul>
-<li>15-213 is a good course, did learn a lot from it. </li>
-<li>39-802 is only based on the report, which is quite unfair.</li>
-<li>06-607 introduced me into the field of surfaces and colloids. This is a quite interesting field. I'm considering pursuing Ph.D. in this field. Prof. Prieve gave lectures on a very slow speed. Tests are quite hard, but it's easy to get an A.</li>
-<li>06-640 is named as "Molecular Simulation". However, Prof. Kitchin talked very little about the quantem background. Should drop this course.</li>
-<li>09-611 is taught by Prof. Gary Patterson, a very nice old man. This thermal dynamic course is more related to polymer thermal dynamics.</li>
-</ul>]]></content>
   </entry>
 </feed>
